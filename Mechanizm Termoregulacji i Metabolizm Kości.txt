@@ -256,12 +256,6 @@ B) Niska temperatura ciała i wysoka wilgotność otoczenia
 C) Normalna temperatura ciała i niska wilgotność otoczenia
 D) Wysoka wilgotność i brak ruchu powietrza
 ANSWER: A
-Dlaczego parowanie jest głównym mechanizmem chłodzenia w warunkach wysokiej wilgotności?
-A) Wysoka wilgotność ogranicza efektywność parowania, utrudniając chłodzenie
-B) Parowanie jest bardziej efektywne w wysokiej wilgotności
-C) Wysoka wilgotność przyspiesza utratę ciepła przez przewodzenie
-D) W takich warunkach organizm przechodzi na chłodzenie przez promieniowanie
-ANSWER: A
 W jakich warunkach organizm zwiększa produkcję ciepła?
 A) W niskich temperaturach otoczenia
 B) W wysokich temperaturach otoczenia
